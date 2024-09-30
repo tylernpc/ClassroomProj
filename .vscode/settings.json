@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ClassroomDatabase",
+            "database": "Classroom",
+            "username": "tyler",
+            "password": "Lambo-98D"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "connectionTimeout": 30,
+            "database": "classroom",
+            "username": "postgres",
+            "name": "Classroom Database",
+            "password": "Lambo-98D"
+        }
+    ]
+}
