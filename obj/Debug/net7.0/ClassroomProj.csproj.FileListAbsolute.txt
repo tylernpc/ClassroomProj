@@ -1,0 +1,15 @@
+/Users/tyler/Repos/ClassroomProj/bin/Debug/net7.0/ClassroomProj
+/Users/tyler/Repos/ClassroomProj/bin/Debug/net7.0/ClassroomProj.deps.json
+/Users/tyler/Repos/ClassroomProj/bin/Debug/net7.0/ClassroomProj.runtimeconfig.json
+/Users/tyler/Repos/ClassroomProj/bin/Debug/net7.0/ClassroomProj.dll
+/Users/tyler/Repos/ClassroomProj/bin/Debug/net7.0/ClassroomProj.pdb
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.csproj.AssemblyReference.cache
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.AssemblyInfoInputs.cache
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.AssemblyInfo.cs
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.csproj.CoreCompileInputs.cache
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.dll
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/refint/ClassroomProj.dll
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.pdb
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ClassroomProj.genruntimeconfig.cache
+/Users/tyler/Repos/ClassroomProj/obj/Debug/net7.0/ref/ClassroomProj.dll
