@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World");
+        List<int> firstList = new List<int>();
+        Console.WriteLine(Convert.ToString(firstList));
     }
 }
